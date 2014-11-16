@@ -15,7 +15,10 @@ LoadError: dlopen(/Users/ben/.rbenv/versions/2.1.5/lib/ruby/2.1.0/x86_64-darwin1
 
 Solution
 
-brew uninstall (program) /n
-brew uninstall readline /n
-brew install readline /n
+brew uninstall (program)
+
+brew uninstall readline
+
+brew install readline
+
 brew link --force readline
